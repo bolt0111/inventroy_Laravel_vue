@@ -39,6 +39,3 @@ An Inventory and Sales Management System using __Laravel 7 (PHP Framework)__, __
 - When work is tested, done or ready, push to remote
 - Merge to dev
 
-## License
-
-The Laravel Forum is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
